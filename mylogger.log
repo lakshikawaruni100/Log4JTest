@@ -1,0 +1,21 @@
+[INFO ] 2020-11-04 09:58:31.525 [main] test3 - I'm In Info Codding
+[DEBUG] 2020-11-04 09:58:32.506 [main] test3 - Chrome driver setup is completed
+[DEBUG] 2020-11-04 09:58:38.298 [main] test3 - Chrome driver instance created
+[DEBUG] 2020-11-04 09:58:56.828 [main] test3 - Chrome browser launched
+[INFO ] 2020-11-04 09:58:56.837 [main] test3 - Test case started
+[DEBUG] 2020-11-04 09:59:02.041 [main] test3 - Test case is completed
+[DEBUG] 2020-11-04 09:59:02.763 [main] test3 - Chrome driver instance closed
+[INFO ] 2020-11-04 10:02:25.037 [main] test3 - I'm In Info Codding
+[DEBUG] 2020-11-04 10:02:25.855 [main] test3 - Chrome driver setup is completed
+[DEBUG] 2020-11-04 10:02:31.205 [main] test3 - Chrome driver instance created
+[DEBUG] 2020-11-04 10:02:38.081 [main] test3 - Chrome browser launched
+[INFO ] 2020-11-04 10:02:38.088 [main] test3 - Test case started
+[DEBUG] 2020-11-04 10:02:42.656 [main] test3 - Test case is completed
+[DEBUG] 2020-11-04 10:02:43.257 [main] test3 - Chrome driver instance closed
+[INFO ] 2020-11-04 10:06:04.045 [main] test3 - I'm In Info Codding
+[DEBUG] 2020-11-04 10:06:04.936 [main] test3 - Chrome driver setup is completed
+[DEBUG] 2020-11-04 10:06:14.611 [main] test3 - Chrome driver instance created
+[DEBUG] 2020-11-04 10:06:21.949 [main] test3 - Chrome browser launched
+[INFO ] 2020-11-04 10:06:21.957 [main] test3 - Test case started
+[DEBUG] 2020-11-04 10:06:24.852 [main] test3 - Test case is completed
+[DEBUG] 2020-11-04 10:06:25.601 [main] test3 - Chrome driver instance closed
