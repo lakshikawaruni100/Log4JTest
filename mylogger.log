@@ -19,3 +19,4 @@
 [INFO ] 2020-11-04 10:06:21.957 [main] test3 - Test case started
 [DEBUG] 2020-11-04 10:06:24.852 [main] test3 - Test case is completed
 [DEBUG] 2020-11-04 10:06:25.601 [main] test3 - Chrome driver instance closed
+----------------------------------------------------------------------------------
